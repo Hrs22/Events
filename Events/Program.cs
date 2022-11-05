@@ -1,3 +1,4 @@
+using ASPNetCoreIdentity.Data;
 using Events.Data;
 using Microsoft.AspNetCore.Identity;
 using Microsoft.EntityFrameworkCore;
